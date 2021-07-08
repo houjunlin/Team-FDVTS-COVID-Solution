@@ -15,12 +15,16 @@ This is the official implementation of the paper "Boosting COVID-19 diagnosis wi
 + visdom==0.1.8.9
 
 ## Train
-> python main_supcon.py
-
+```
+python main_supcon.py
+```
 
 ## Test
-> python test.py
-
+```
+python test.py
+```
 
 ## TTA Test
-> python tta_val.py
+```
+python tta_val.py
+```
