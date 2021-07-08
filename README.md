@@ -14,4 +14,13 @@ This is the official implementation of the paper "Boosting COVID-19 diagnosis wi
 + torchvision==0.9.0
 + visdom==0.1.8.9
 
+## Train
+> python main_supcon.py
 
+
+## Test
+> python test.py
+
+
+## TTA Test
+> python tta_val.py
