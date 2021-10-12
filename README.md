@@ -1,7 +1,8 @@
 # Team-FDVTS-COVID-Solution
 
 
-This is the official implementation of the paper "Boosting COVID-19 diagnosis with periphery-aware spatial prediction and contrastive representation enhancement". 
+This is the official implementation of the paper "CMC-COV19D: Contrastive Mixup Classification for COVID-19 Diagnosis". 
+We ranked 1st in the ICCV 2021 COVID-19 Diagnosis Competition.
 
 ## Setup
 + Pillow==8.1.2
@@ -13,6 +14,9 @@ This is the official implementation of the paper "Boosting COVID-19 diagnosis wi
 + torchnet==0.0.4
 + torchvision==0.9.0
 + visdom==0.1.8.9
+
+## Data Preprocessing
+
 
 ## Train
 ```
@@ -28,4 +32,8 @@ python test.py
 ```
 python tta_val.py
 ```
+
+
+## Reference
+
 
