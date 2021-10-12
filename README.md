@@ -35,6 +35,7 @@ python tta_val.py
 
 
 ## Reference
+```
 @InProceedings{Hou_2021_ICCV,
     author    = {Hou, Junlin and Xu, Jilan and Feng, Rui and Zhang, Yuejie and Shan, Fei and Shi, Weiya},
     title     = {CMC-COV19D: Contrastive Mixup Classification for COVID-19 Diagnosis},
@@ -43,4 +44,4 @@ python tta_val.py
     year      = {2021},
     pages     = {454-461}
 }
-
+```
