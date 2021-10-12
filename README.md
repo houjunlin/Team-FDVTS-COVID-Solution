@@ -35,5 +35,12 @@ python tta_val.py
 
 
 ## Reference
-
+@InProceedings{Hou_2021_ICCV,
+    author    = {Hou, Junlin and Xu, Jilan and Feng, Rui and Zhang, Yuejie and Shan, Fei and Shi, Weiya},
+    title     = {CMC-COV19D: Contrastive Mixup Classification for COVID-19 Diagnosis},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2021},
+    pages     = {454-461}
+}
 
